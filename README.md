@@ -1,15 +1,15 @@
 # Hola, soy Marlon Puentes 👋
 
 Estudiante de **Ingeniería de Sistemas y Computación** en la UPTC (Sogamoso, Colombia).
-Me interesan el **backend**, las **bases de datos** y la arquitectura de software.
+Me interesan el **backend**, las **bases de datos**, la arquitectura de software y el **desarrollo de software con herramientas de IA**.
 Actualmente busco una **práctica profesional**.
 
 ### 🛠️ Tecnologías
 
-**Lenguajes:** Python · Java · JavaScript / TypeScript · SQL · PL/SQL · C#
-**Backend y frontend:** Spring Boot · Node.js · Flask · Angular
-**Bases de datos:** Oracle Database · Oracle APEX · PostgreSQL · MySQL · MongoDB
-**Herramientas:** Git · GitHub · LaTeX
+- **Lenguajes:** Python · Java · JavaScript / TypeScript · SQL · PL/SQL · C#
+- **Backend y frontend:** Spring Boot · Node.js · Flask · Angular
+- **Bases de datos:** Oracle Database · Oracle APEX · PostgreSQL · MySQL · MongoDB
+- **Herramientas:** Git · GitHub
 
 ### 📌 Proyectos destacados
 
