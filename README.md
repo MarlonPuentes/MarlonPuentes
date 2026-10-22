@@ -22,4 +22,5 @@ Actualmente busco una **práctica profesional**.
 
 ### 📫 Contacto
 
-✉️ puentesmarlon@hotmail.com
+✉️ puentesmarlon@hotmail.com  
+💼 [linkedin.com/in/marlonpuentes](https://www.linkedin.com/in/marlonpuentes)
