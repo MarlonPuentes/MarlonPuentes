@@ -18,7 +18,7 @@ Actualmente busco una **práctica profesional**.
 | [**MathLite**](https://github.com/MarlonPuentes/mathlite-interprete) | Intérprete de un lenguaje para cálculos matemáticos: análisis léxico, sintáctico y semántico, con interfaz web y pruebas | Python |
 | [**MathAgents**](https://github.com/MarlonPuentes/mathagents) | Sistema multiagente basado en LLM que demuestra teoremas y los verifica formalmente con Lean 4 *(en desarrollo)* | Python · LangGraph · Lean 4 |
 | [**Marketplace Oracle + APEX**](https://github.com/MarlonPuentes/marketplace-oracle-apex) | Base de datos de comercio electrónico en 3FN con vistas analíticas, triggers PL/SQL y aplicación web en APEX | Oracle · PL/SQL · APEX |
-| [**Red Social**](https://github.com/MarlonPuentes/Red_Social_Backend) | Red social full stack: API REST y frontend web ([frontend](https://github.com/MarlonPuentes/Red_Social_Front)) | Spring Boot · Angular |
+| **Red Social** *(proyecto en equipo)* | Red social full stack: API REST con autenticación JWT y frontend web | Spring Boot · Angular |
 
 ### 📫 Contacto
 
